@@ -11,8 +11,8 @@ The main goal of the project is to provide users with an intuitive platform to e
 - [Layout](#layout)
 - [Demonstration](#demonstration)
 - [Technologies](#technologies)
-- [Running](#running-to-project)
 - [Author](#author)
+- [Running](#running-to-project)
 
 
 
