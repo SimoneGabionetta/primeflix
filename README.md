@@ -1,9 +1,9 @@
 # Prime Flix Project
 
-A project made in React using API containing the films on posters...
+The "Prime Flix" project is an application developed using React, a popular JavaScript library for building user interfaces.
+The main goal of the project is to provide users with an intuitive platform to explore and discover currently playing movies.
 
 
-## Table of Contents
 
 ## Table of Contents
 
