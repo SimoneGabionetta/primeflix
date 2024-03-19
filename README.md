@@ -11,8 +11,8 @@ The main goal of the project is to provide users with an intuitive platform to e
 - [Layout](#layout)
 - [Demonstration](#demonstration)
 - [Technologies](#technologies)
-- [Author](#author)
 - [Running](#running-to-project)
+- [Author](#author)
 
 
 
@@ -42,18 +42,10 @@ Check out the images by accessing the project!
 3. [TMDB-API](https://www.themoviedb.org/)
    
    
- ## Author
-Simone Gabionetta
-
-<img src="https://github.com/SimoneGabionetta.png" alt="Gabionetta" style="border-radius: 50%; width: 80px; height: 80px;">
-
-
-[Linkedin](https://www.linkedin.com/in/smgabionetta/)
-
-
+ 
 ## Running to project
 
-```bash
+``` bash
 # Clone this repository
 $ git clone linkrepo
 
@@ -65,6 +57,16 @@ $ npm install
 
 # Run the application
 $ npm run start
+
+```
+
+## Author
+
+Simone Gabionetta
+
+<img src="https://github.com/SimoneGabionetta.png" alt="Gabionetta" style="border-radius: 50%; width: 80px; height: 80px;">
+
+[Linkedin](https://www.linkedin.com/in/smgabionetta/)
 
 
 
